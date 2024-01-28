@@ -8,4 +8,4 @@ https://github.com/PengPengPoka/Craftsman-Connect/blob/craftmanApp_handyman/app/
 
 Demo App :
 
-![SplashScreen]([https://github.com/logos/github-logo.png](https://github.com/Lamz16/craftmanHandyman/blob/master/images/1.jpg)https://github.com/Lamz16/craftmanHandyman/blob/master/images/1.jpg)
+![SplashScreen](https://github.com/Lamz16/craftmanHandyman/blob/master/images/1.jpg)
